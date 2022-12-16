@@ -1,0 +1,22 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+#header{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: end;
+    text-decoration: none;
+    align-items: center;
+}
+#flag{
+    display: flex;
+    margin-left: 20%;
+    margin-right: 10px;
+}
+#flag>img{
+    border-radius: 50%;
+    align-self: center;
+    margin-right: 5px;
+}
